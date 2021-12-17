@@ -4,4 +4,4 @@ Git has a mutable index called state
 Git tracks changes of files
 Git is good
 WOW
-Create a new brance is quick
+Create a new brance is quick AND simple
